@@ -1,14 +1,14 @@
-# Uber Clone
+# Uberish
 
-A Uber clone app made with React Native.
+Just cause I've heard a lot of "Let's build me an app like uber that will disrupt the market and give Uber a run for their money".
 
-This app only have the basic funcionallity of the real app like showing a map with a search box. It does not show cars on the map and also does not have authentication.
+Just set this project up and build out the remaining unicorn features and good luck to you as you "Disrupt the market with yet another Uberish app" 🚀🚀
 
-## What the app can do?
+## What can you do with this app at the moment?
 
 - Get user's current location.
 - Use the Google Directions to suggest adresses while the user is typing in the search box.
-- Draws the path to the destination.
+- View a drawn path to the destination.
 - Calculate the estimated value of the ride.
 
 ## Requirements
@@ -17,17 +17,17 @@ This app only have the basic funcionallity of the real app like showing a map wi
 
 ```
 const config = {
-    maps_api_key: 'An_api_key'
+    maps_api_key: 'your_api_key'
 }
 export default config;
 
 ```
 
-## Libraries used
+## Buzzwords to impress your peers
 
 - Expo
-- Styled Components (Stylization)
-- React Native Maps (Map component)
-- React Native Maps Directions (Getting the addresses and estimating distance)
-- React Native Google Places Autocomplete (Address search box with autocomplete)
-- React Native Geocoding (Get address by passing a latitude and longitude)
+- Styled Components
+- React Native Maps
+- React Native Maps Directions
+- React Native Google Places Autocomplete
+- React Native Geocoding
